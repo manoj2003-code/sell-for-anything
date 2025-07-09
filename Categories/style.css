@@ -45,6 +45,11 @@
 
 
 
+/* For Extra space in mobile view */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 
 
 /* Navbar  */
